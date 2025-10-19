@@ -228,6 +228,3 @@ ansible-onboarding/
 ├── README.md               # This file
 └── test.yml                # Example playbook
 ```
-
-
-Do you want me to do that?
