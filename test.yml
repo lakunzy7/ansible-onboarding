@@ -1,0 +1,7 @@
+- name: Test Ansible
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - debug:
+        msg: "Ansible is working!"
+
