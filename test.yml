@@ -4,4 +4,3 @@
   tasks:
     - debug:
         msg: "Ansible is working!"
-
