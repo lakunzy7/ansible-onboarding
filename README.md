@@ -1,6 +1,4 @@
-Ah! Got it — you want the **README.md formatted so that all commands are immediately copyable by learners**, without extra explanations inside the code blocks. Essentially, each code block should contain **just the commands**, ready to copy-paste. I’ve cleaned it up for that purpose:
 
-````markdown
 # Ansible Onboarding Workspace
 
 This repository contains a production-ready Ansible dev workstation setup.
